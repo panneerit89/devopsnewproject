@@ -1,2 +1,3 @@
 To test the diff function
 This is the first text file
+script2edit
